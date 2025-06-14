@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Akhil Mate -->
 
 <h1 align="center">Hi 👋, I'm Akhil Mate</h1>
-<h3 align="center">Computer Engineering undergrad | Tech Explorer | Problem Solver</h3>
+<h3 align="center">Computer Engineering Undergrad | Tech Explorer | Problem Solver</h3>
 
 ---
 
@@ -25,11 +25,12 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
@@ -50,21 +51,27 @@
   <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
 </p>
 
-### 🗄️ Databases & DevOps
+### 🗄️ Databases & Web Servers
 <p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-CA2132?style=for-the-badge&logo=apache&logoColor=white" />
+</p>
+
+### 🧪 DevOps & Tools
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-### 📚 Core Concepts
+### 📚 Core CS Concepts
 - Data Structures & Algorithms  
-- Object-Oriented Programming  
+- Object-Oriented Programming (OOP)  
 - Operating Systems  
-- Database Management Systems  
+- Database Management Systems (DBMS)  
 - Computer Networks  
-- System Design
+- System Design & Architecture
 
 ---
